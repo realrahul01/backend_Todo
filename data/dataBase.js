@@ -7,3 +7,6 @@ export const connectDB=()=>{
 }).then(()=>console.log('Database is connected'))
 .catch((err)=>console.log(err))
 }
+
+
+
